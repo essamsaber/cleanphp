@@ -1,7 +1,7 @@
 <?php
 namespace CleanPhp\Invoicer\Domain\Entity;
 
-class Orders extends AbstractEntity
+class Order extends AbstractEntity
 {
 	protected $customer;
 	protected $orderNumber;
